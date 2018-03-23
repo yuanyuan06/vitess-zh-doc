@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 23 05:56:30 UTC 2018
+vitess-jdbc-3.0.0-SNAPSHOT-fatjar.jar>=
+vitess-jdbc-3.0.0-SNAPSHOT.jar>=
+vitess-jdbc-3.0.0-SNAPSHOT.pom>=
