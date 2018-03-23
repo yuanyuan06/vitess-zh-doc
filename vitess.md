@@ -5,3 +5,7 @@
 ## 数据库支持
 支持mysql 5.6 mariaDB, mysql5.7+, 也支持Percona的变体
 ## 相关性能
+
+
+
+http://10.88.27.50:15001/debug/queryz
